@@ -6,8 +6,6 @@
 
 # Программирование и обработка данных на Python
 
-> Генерируется скриптом `_meta/scripts/build_hubs.py` — ручные правки затрутся.
-
 ## Лекции
 
 - [[Advanced Techniques and Internal Object Architecture]]
